@@ -8,7 +8,7 @@ I help robots **see, think, and explore** with **SLAM, VLM Agents, and sensor fu
 🔹 **Kaggle Warrior** 🥷 
 🔹 **SLAM Explorer**  🗺️  
 🔹 **VLM Agent Wizard**  🧠
-🔹 **Multimodal Perceptor **  📸 
+🔹 **Multimodal Perceptor**  📸 
 
 ### 🌱 What I’m Up To  
 - Crafting the ultimate **VLM-powered agent** to navigate the real world 🌎🤖  
