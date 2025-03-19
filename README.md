@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🐼 Hey there! I'm Panda from TUM 👋  
 
-<!--
-**helloYwen123/helloYwen123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+I'm a **robotics & AI researcher** from **TUM** 🏫, diving into the world of **multi-modal perception, mobile robotics, and large models**.  
+I help robots **see, think, and explore** with **SLAM, VLM Agents, and sensor fusion**! 🤖✨  
 
-Here are some ideas to get you started:
+### 🏗️ What I’ve Built  
+🔹 **Kaggle Warrior** 🥷 
+🔹 **SLAM Explorer**  🗺️  
+🔹 **VLM Agent Wizard**  🧠
+🔹 **Multimodal Perceptor **  📸 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m Up To  
+- Crafting the ultimate **VLM-powered agent** to navigate the real world 🌎🤖  
+- Fusing **sensor data** like a high-tech chef 👨‍🍳🍲 for smarter perception  
+- Making SLAM even **smarter, faster, and more robust** 🏎️💨
+  
+### 💬 Ask Me About  
+📡 **Sensor Fusion** 🧠 **VLMs & AI Agents** 🚀 **SLAM & Mobile Robotics**  
