@@ -1,8 +1,8 @@
 ## 🐼 Hey there! I'm Panda from TUM 👋  
 
 ### 🚀 About Me  
-I'm a **robotics Master Student** from **TUM** , diving into the world of **multi-modal perception, mobile robotics, and large Multimodal or Language models**.  
-I help robots **see, think, and explore** with **SLAM, VLM Agents, and sensor fusion**! 🤖  
+I'm a robotics Master Student from Technical University of Munich , diving into the world of multi-modal perception, mobile robotics, and large Multimodal or Language models.  
+I help robots see, think, and explore with SLAM, VLM Agents, and sensor fusion! 🤖  
 
 ### 🏗️ What I'm working
 🔹 **SLAM Explorer**    
