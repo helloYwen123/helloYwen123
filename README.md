@@ -9,7 +9,7 @@ I help robots see, think, and explore with SLAM, VLM Agents, and sensor fusion! 
 🔹 **VLM Agent Wizard**   (Currently working on research & projects)  
 🔹 **Multimodal Perceptor**   (Currently working on research & projects)  
   
-### 💬 Ask Me About  
-📡 **Sensor Fusion** 🧠 **VLMs & AI Agents** 🚀 **SLAM & Mobile Robotics**  
+###  Ask Me About  
+📡 Sensor Fusion 🧠 VLMs & AI Agents 🚀 SLAM & Mobile Robotics  
 
-💡 **Always happy to connect, learn, and exchange ideas! Feel free to reach out! 🤝** 
+💡 Always happy to connect, learn, and exchange ideas! Feel free to reach out! 🤝 
