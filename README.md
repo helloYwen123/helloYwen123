@@ -12,4 +12,4 @@ I help robots see, think, and explore with SLAM, VLM Agents, and sensor fusion! 
 ###  Ask Me About  
 📡 Sensor Fusion 🧠 VLMs & AI Agents 🚀 SLAM & Mobile Robotics  
 
-💡 Always happy to connect, learn, and exchange ideas! Feel free to reach out! 🤝 
+💡 Always happy to connect, learn, and exchange ideas! Feel free to reach out! 🤝:xie590206@gmail.com  
