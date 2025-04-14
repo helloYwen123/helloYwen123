@@ -5,9 +5,9 @@ I'm a robotics Master Student from Technical University of Munich , diving into 
 I help robots see, think, and explore with SLAM, VLM Agents, and sensor fusion! 🤖  
 
 ### 🏗️ What I'm working
-🔹 SLAM Explorer   
-🔹 VLM Agent Wizard   (Currently working on research & projects)  
-🔹 Multimodal Perceptor   (Currently working on research & projects)  
+🔹 SLAM  
+🔹 VLM Agent  (Currently working on research & projects)  
+🔹 Multimodal Perception  (Currently working on research & projects)  
   
 ###  Ask Me About  
 📡 Sensor Fusion 🧠 VLMs & AI Agents 🚀 SLAM & Mobile Robotics  
