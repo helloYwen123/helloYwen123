@@ -6,7 +6,7 @@ I'm a robotics Master Student from Technical University of Munich , diving into 
 ### 🏗️ What I'm working
 🔹 SLAM  
 🔹 VLM Agent  (Currently working on research & projects)  
-🔹 Multimodal Perception  (Currently working on research & projects)  
+🔹 Multimodal Perception in Autonomous Driving  (Currently working on research & projects)  
   
 ###  Ask Me About  
 📡 Sensor Fusion 🧠 VLMs & AI Agents 🚀 SLAM & Mobile Robotics  
